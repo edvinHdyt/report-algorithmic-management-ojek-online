@@ -5,3 +5,6 @@
 4. git add.
 5. git commit -m "pesannya"
 6. git push origin nama_branch
+
+
+### Note: dafpus diisinya belakangan aja
