@@ -19,7 +19,7 @@
 
 ## BAB IV PEMBAHASAN DAN SOLUSI
 ### 4.1 Dampak Etis 
-	Analisis terhadap manajemen algoritmik dilakukan melalui lensa standar etika IT global, yaitu ACM dan IEEE, guna mengevaluasi tanggung jawab moral sistem terhadap mitra pengemudi:
+ Analisis terhadap manajemen algoritmik dilakukan melalui lensa standar etika IT global, yaitu ACM dan IEEE, guna mengevaluasi tanggung jawab moral sistem terhadap mitra pengemudi:
 ### 1. Kasus Orderan Fiktif dan Kegagalan Mitigasi Kerugian (Analisis ACM):
 Prinsip utama kode etik ACM mewajibkan profesional TI untuk memitigasi dampak buruk dari sistem yang dibangun. Namun, algoritma sering kali melakukan pemutusan mitra secara otomatis akibat aktivitas penipuan pihak ketiga seperti orderan fiktif. Hal ini merupakan bentuk eksploitasi digital di mana sistem gagal memproteksi mitra yang rentan, sehingga melanggar tanggung jawab etis untuk menghindari kerugian bagi pengguna [10].
 ### 2. Asimetri Informasi dan Tanggung Jawab Kesejahteraan (Analisis IEEE):
