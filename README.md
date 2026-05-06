@@ -318,5 +318,14 @@ Merespons berbagai temuan pelanggaran etis, ketimpangan ekonomi, dan celah hukum
     </tr>
 </table>
 
+### 🎥 Presentasi Proyek
+<div align="center">
+	<a href="https://www.youtube.com/watch?v=y7vUn-ONNIs" target="_blank" class="center">
+	  <img src="https://img.youtube.com/vi/y7vUn-ONNIs/0.jpg" 
+	       alt="Tonton Video" 
+	       width="600"/>
+	</a>
+</div>
+
 ### 📎 Lampiran Proyek
 > **Link Presentasi:** [Akses Slide PPT di Canva](https://canva.link/9jlvh5ybk3alka1)
