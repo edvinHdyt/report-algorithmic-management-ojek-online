@@ -35,7 +35,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 ---
 </div>
 
-## BAB I PENDAHULUAN
+<h2 align="center">BAB I PENDAHULUAN </h2>
 
 ### 1.1 Latar Belakang
 
@@ -145,7 +145,7 @@ Menariknya, penekanan pada aspek “kesejahteraan” dalam kode etik *IEEE* memp
 ## 2.4 Kerangka 3P (*Triple Bottom Line*)
 
 <div align="center">
-  <img src="Gambar 2.4 Kerangka 3P Triple Bottom Line.png" alt="Kerangka 3P"><br>
+  <img src="Gambar 2.4 Kerangka 3P Triple Bottom Line.png" alt="Kerangka 3P" width="500" height="500"><br>
   <small><b><i>Gambar 2.4</i></b> Kerangka 3P (<i>Triple Bottom Line</i>)</small>
 </div>
 
@@ -155,7 +155,7 @@ Ditinjau dari dimensi *profit*, *platform* besar seperti Gojek dan Grab secara t
 
 Kondisi tersebut merepresentasikan inti dari diskrepansi dalam kerangka *triple bottom line* pada model bisnis ojek *online*: perusahaan *platform* cenderung mengoptimalkan pilar *profit* melalui strategi mengeksternalisasi biaya dan risiko operasional kepada pilar *people* (mitra pengemudi). Apabila ditinjau dari perspektif etika profesi TI, para insinyur (*engineers*) yang merancang sistem dan algoritma ini baik secara sadar maupun tidak turut berkontribusi dalam melanggengkan ketidakseimbangan tersebut. Hal ini menegaskan prinsip bahwa sebuah sistem yang dirancang tanpa mempertimbangkan keseimbangan aspek 3P tidak dapat dikategorikan sebagai sistem yang etis, meskipun secara teknis sistem tersebut mampu berfungsi dengan sempurna [5].
 
-## BAB III ANALISIS KASUS (ALGORITHMIC MANAGEMENT)
+<h2 align="center">BAB III ANALISIS KASUS (ALGORITHMIC MANAGEMENT) </h2>
 ### 3.1 Lensa People
 Pada lensa people ini penulis memfokuskan analisis mengenai permasalahan pada gig worker (pekerja lepas). Pekerja lepas pada kasus ini adalah mitra dari PT Gojek Indonesia yaitu ojek online. Terdapat salah satu kasus menarik yang diulas oleh Adriaman melalui jurnalnya [6]. Dalam jurnalnya, Adriaman menyebutkan bahwa terdapat permasalahan sistem dan perjanjian  yang dihadapi oleh driver Gojek Indonesia, salah satu masalahnya adalah orderan fiktif. Orderan fiktif termasuk kedalam tindak penipuan yang secara tidak langsung akan merugikan salah satu pihak, dalam hal ini pengemudi gojek [6].
 
@@ -177,7 +177,7 @@ Dalam jurnalnya Sartika dkk [8], menjabarkan mengenai fitur baru pada aplikasi g
 
 Pada contoh kasus jurnal tersebut fitur tersebut memang menyumbang penanaman pohon yang sangat signifikan bagi planet, kendati demikian jika merujuk pada jurnal [7] dimana driver ojek online tidak terikat waktu kerja sebagaimana yang sudah diatur oleh undang-undang yaitu 8 jam sehari maka fitur tersebut hanya akan  terasa seperti pencitraan go green saja. Hal tersebut demikian adanya dikarenakan algoritma dari aplikasi ojek online yang ada saat ini memaksa para driver untuk terus menerus bekerja tanpa adanya waktu kerja yang pasti dan bayaran yang sesuai[6].  Hal ini tentulah berdampak terhadap meningkatnya emisi karbon di bumi dimana disebabkan oleh kendaraan yang dipakai selama berjam-jam tanpa henti oleh para driver.
 
-## BAB IV PEMBAHASAN DAN SOLUSI
+<h2 align="center">BAB IV PEMBAHASAN DAN SOLUSI</h2>
 ### 4.1 Dampak Etis 
  Analisis terhadap manajemen algoritmik dilakukan melalui lensa standar etika IT global, yaitu ACM dan IEEE, guna mengevaluasi tanggung jawab moral sistem terhadap mitra pengemudi:
 ### 1. Kasus Orderan Fiktif dan Kegagalan Mitigasi Kerugian (Analisis ACM):
@@ -203,7 +203,7 @@ Profesional TI perlu merancang sistem yang lebih terbuka terkait metode perhitun
 ### 3. Jaminan Kesejahteraan:
 Mendorong regulasi yang lebih tegas untuk menjamin perlindungan sosial bagi pekerja gig agar beban risiko tidak hanya ditanggung oleh pihak pengemudi [11][13].
 
-## BAB V PENUTUP
+<h2 align="center">BAB V PENUTUP</h2>
 ### 5.1 Kesimpulan
 #### 5.1.1 Sintesis Utama: Algoritma Bukan Entitas Netral
 <div align="justify">
@@ -276,6 +276,46 @@ Merespons berbagai temuan pelanggaran etis, ketimpangan ekonomi, dan celah hukum
     <td valign="top">[6]</td>
     <td>M. Adriaman, “Upaya Hukum Terhadap Suspend Dalam Perjanjian Kemitraan Antara PT. Gojek Indonesia dengan Driver,” <i>Jurnal Hukum Respublica Universitas Lancang Kuning</i>, vol. 20, No. 2, pp. 1–8, May 2021, doi: <a href="https://doi.org/10.31849/respublica.v20i2.7227">https://doi.org/10.31849/respublica.v20i2.7227</a>.</td>
   </tr>
+	<tr>
+        <td valign="top">[6]</td>
+        <td>M. Adriaman, “Upaya Hukum Terhadap Suspend Dalam Perjanjian Kemitraan Antara PT. Gojek Indonesia dengan Driver,” <i>Jurnal Hukum Respublica Universitas Lancang Kuning</i>, vol. 20, No. 2, Jurnal Hukum Respublica, pp. 1–8, May 2021, doi: <a href="https://doi.org/10.31849/respublica.v20i2.7227">https://doi.org/10.31849/respublica.v20i2.7227</a>.</td>
+    </tr>
+    <tr>
+        <td valign="top">[7]</td>
+        <td>A. Cahyono, I. F. Kusuma, and H. H. Kusumo, “Hubungan Hukum Kemitraan antara Driver Online dengan Penyedia Layanan,” <i>Perspektif Hukum</i>, pp. 317–331, Dec. 2024, doi: <a href="https://doi.org/10.30649/ph.v24i2.311">10.30649/ph.v24i2.311</a>.</td>
+    </tr>
+    <tr>
+        <td valign="top">[8]</td>
+        <td>I. Sartika <i>et al.</i>, “ANALISIS UPAYA PENGURANGAN JEJAK KARBON DALAM APLIKASI PERANGKAT BERGERAK GRAB DAN GOJEK MENGGUNAKAN TECHNOLOGY ACCEPTANCE MODEL,” Malang, Dec. 2023. doi: <a href="https://doi.org/10.25126/justsi.v4i2.192">https://doi.org/10.25126/justsi.v4i2.192</a>.</td>
+    </tr>
+    <tr>
+        <td valign="top">[9]</td>
+        <td>A. F. Utami, A. Indiharwati, A. Fauziah, A. Fakultas Ekonomi, and D. Bisnis, “Hubungan Kelembagaan antara Pengemudi dan PT GoTo Gojek Tokopedia Tbk: Pendekatan Teori Kontrak,” <i>Jurnal Dinamika Ekonomi Pembangunan</i>, vol. 9, pp. 17–32, Oct. 2025, doi: <a href="https://doi.org/10.33005/jdep.v9i1.906">10.33005/jdep.v9i1.906</a>.</td>
+    </tr>
+    <tr>
+        <td valign="top">[10]</td>
+        <td>M. Khairullah, R. O. Novasari, T. Kartika, and N. Y. Aryanti, “Digital Exploitation in the Gig Economy: A Marxian Study on Platform and Online Ojek Driver Relations,” <i>Electronic Journal of Education, Social Economics and Technology</i>, vol. 6, no. 1, 2025, doi: <a href="https://doi.org/10.33122/ejeset.v6i1.706">https://doi.org/10.33122/ejeset.v6i1.706</a>.</td>
+    </tr>
+	<tr>
+        <td valign="top">[11]</td>
+        <td>S. Asrori, M. Isma’il, and E. F. Gamalinda, “The flexibility illusion: Algorithmic control and precarity in Indonesia’s gig economy,” <i>Simulacra</i>, vol. 8, no. 2, pp. 187–205, Nov. 2025.</td>
+    </tr>
+    <tr>
+        <td valign="top">[12]</td>
+        <td>A. N. Marpaung, T. Farina, and N. Ali, “AI-Based Dynamic Pricing in Online Transportation Services: A Legal Review of Algorithmic Fairness and Transparency,” <i>Eduvest – Journal of Universal Studies</i>, vol. 6, no. 3, pp. 3621–3628, Mar. 2026.</td>
+    </tr>
+    <tr>
+        <td valign="top">[13]</td>
+        <td>M. Stevania and S. H. Hoesin, “Analisis kepastian hukum jaminan sosial ketenagakerjaan bagi gig worker pada era gig economy di Indonesia,” <i>Jurnal Ilmiah Penegakan Hukum</i>, vol. 11, no. 2, pp. 268–277, 2024.</td>
+    </tr>
+    <tr>
+        <td valign="top">[14]</td>
+        <td>N. R. Izzati, “Ketidakseimbangan Kewajiban Para Pihak dalam Regulasi Ojek Online: Distorsi Logika Hubungan Kemitraan Ekonomi Gig,” <i>Undang: Jurnal Hukum</i>, vol. 5, no. 2, pp. 325–356, 2022, doi: <a href="https://doi.org/10.22437/ujh.5.2.325-356">https://doi.org/10.22437/ujh.5.2.325-356</a>.</td>
+    </tr>
+    <tr>
+        <td valign="top">[15]</td>
+        <td>I. P. Y. B. Pradana, "Pekerja Ekonomi Gig: Pengalaman Kerja Pengemudi Ojek Online Maxim dan Grab di Wilayah Timur Indonesia," <i>Jurnal Ilmu Administrasi Negara (AsIAN)</i>, vol. 12, no. 1, pp. 1–27, 2024. <a href="https://doi.org/10.47828/jianaasian.v12i1.189">https://doi.org/10.47828/jianaasian.v12i1.189</a></td>
+    </tr>
 </table>
 
 ### 📎 Lampiran Proyek
