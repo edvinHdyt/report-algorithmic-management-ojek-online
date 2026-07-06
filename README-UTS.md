@@ -145,7 +145,7 @@ Menariknya, penekanan pada aspek “kesejahteraan” dalam kode etik *IEEE* memp
 ## 2.4 Kerangka 3P (*Triple Bottom Line*)
 
 <div align="center">
-  <img src="Gambar 2.4 Kerangka 3P Triple Bottom Line.png" alt="Kerangka 3P" width="500" height="500"><br>
+  <img src="Kerangka 3P Triple Bottom Line.png" alt="Kerangka 3P" width="500" height="500"><br>
   <small><b><i>Gambar 2.4</i></b> Kerangka 3P (<i>Triple Bottom Line</i>)</small>
 </div>
 
