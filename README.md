@@ -94,7 +94,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 </table>
 
 <!-- ==================== BAGIAN UTAMA I: PONDASI & KONTEKS ==================== -->
-<h2>BAB I: KRONOLOGI & KONTEKS</h2>
+<h2 align="center">BAB I: KRONOLOGI & KONTEKS</h2>
 Fenomena algorithmic management pada platform ride-hailing di Indonesia berakar dari pertumbuhan pesat ekonomi gig yang didorong oleh Gojek dan Grab sejak pertengahan tahun 2010-an. Kedua platform ini telah mengubah lanskap transportasi perkotaan dan menciptakan lapangan kerja bagi ratusan ribu mitra pengemudi di seluruh Indonesia. Namun, di balik janji fleksibilitas dan kemudahan akses pendapatan, sistem yang mengatur pekerjaan para mitra ini berkembang menjadi mekanisme kontrol digital yang masif dan tidak transparan .
 
 Konflik pertama yang terdokumentasi secara luas terjadi pada Desember 2015. Ribuan akun driver Gojek di Surabaya terkena suspend sehingga tidak bisa menerima order dari pengguna. Tidak hanya pembekuan akun, para driver juga dikenai denda yang jumlahnya bervariasi, mulai dari ratusan ribu hingga belasan juta rupiah . Konflik ini bermula ketika pihak manajemen menuding adanya praktik order fiktif yang dilakukan oleh oknum driver untuk mendapatkan bonus poin Go Food. Namun, para driver yang melakukan aksi protes justru menyoroti masalah yang lebih fundamental: kurangnya transparansi aturan yang dilanggar oleh pihak perusahaan sendiri, terutama terkait sistem bagi hasil pendapatan .
@@ -111,18 +111,45 @@ Sementara itu, Dewan Perwakilan Rakyat (DPR) RI tengah menginisiasi Rancangan Un
 
 Hingga tahun 2026, polemik status hukum mitra pengemudi masih berlanjut. Wakil Ketua Badan Aspirasi Masyarakat (BAM) DPR RI menyoroti bahwa status "pekerja mitra" sering digunakan sebagai tameng untuk menghindari kewajiban perlindungan . Perubahan status ini menjadi isu yang dinamis dan masih dalam proses legislasi, belum memiliki kepastian hukum yang final.
 
-<h2>BAB II: FAKTA KUNCI & CATATAN TRANSPARANSI</h2>
+<h2 align="center">BAB II: FAKTA KUNCI & CATATAN TRANSPARANSI</h2>
 [Teks kamu di sini]
 
-<h2>BAB III: PEMETAAN PEMANGKU KEPENTINGAN</h2>
-[Teks kamu di sini]
+<h2 align="center">BAB III: PEMETAAN PEMANGKU KEPENTINGAN</h2>
+Permasalahan-permasalahan yang dialami oleh mitra driver tidak terlepas dari dipengaruhi oleh beberapa pihak, pihak-pihak tersebut mempunyai peran dan porsinya masing-masing untuk memberikan pengaruh terhadap kehidupan pekerjaan yang dilakukan oleh para driver. Analisis dalam pemetaan pemangku kepentingan ini dilakukan agar penulis tahu pihak-pihak mana saja yang terlibat didalam fenomena ini. Analisi pemetaan pemangku kepentingan ini dibagi menjadi beberapa pihak yang terlibat, antara lain seperti pihak yang terlibat, pengambil keputusan, dan relasi kuasa yang terjadi di antara kedua pihak tersebut.
 
-
+<h3>3.1 Pihak Yang Terlibat </h3>
+Pihak-pihak yang terlibat dalam fenomena Gig Worker ini bersumber dari individu atau organisasi yang saling berinteraksi. Driver, pelanggan, dan perusahaan adalah pihak-pihak yang terlibat dalam fenomena gig worker ini [10]. Dimana driver adalah sebuah individu yang mempunyai hubungan kemitraan dengan perusahaan dan juga pihak yang bekerja sekaligus juga pihak yang secara langsung terdampak dari adanya algoritma dan keputusan yang dibuat oleh perusahaan tempat mereka menjalin hubungan kemitraan.
+<br/>
+<br/>
+Sementara driver adalah individu yang terdamapak secara langsung oleh algoritma dan keputusan yang di buat oleh perusahaan, lain halnya dengan pelanggan pihak ini adalah pihak yang memakai jasa driver untuk kebutuhannya entah sekedar menggunakan transportasi yang disediakan, memesan makanan, hingga memesan driver untuk melakukan pengiriman barang [10]. Kendati demikian, pelanggan juga secara tidak langsung merasakan dampak dari keputusan yang dibuat oleh perusahaan mengenai harga yang akan di bayarkan oleh mereka. Hal ini secara tidak langsung menjelaskan bahwa pelanggan adalah pihak yang secara tidak langsung juga terdampak dari keputusan-keputusan yang dibuat oleh perusahaan dan menempatkan mereka sebagai pihak yang terlibat dari fenomena Gig Worker ini sebagai penikmat atau pemakai jasa.
+<br/>
+<br/>
+Lain halnya dengan driver dan pelanggan, perusahaan menempatkan diri sebagai pihak yang mengambil keputusan atas pembuatan algoritma aplikasi yang di gunakan oleh driver dan juga pelanggan dalam fenomea Gig Worker ini. Pembahasan lebih lanjut mengenai perusahaan akan dibahas pada bagian selanjutnya yaitu pihak yang melakukan pengambilan keputusan.
+<h3>3.2 Pihak Pengambil Keputusan </h3>
+Perusahaan menjadi pihak yang mengambil keputusan bagi pembuatan atau pembaharuan algoritma yang digunakan dalam sistem ojek online ini. Hal ini membuat pengelolaan algoritma dan juga keputusan untuk membuat aturan-aturan yang mengikat driver menjadi tanggung jawab sepenuhnya bagi pihak perusahaan, tempat para driver melakukan perjanjian kerja [12]. Selain membuat aturan dan juga mengelola alogritma sistem, perusahaan juga bertanggung jawab untuk mengambil keputusan jika ada seorang driver yang melanggar aturan dengan memberinya peringatan, memberikan suspensi, atau memutus secara sepihak hubungan kerja kemitraan dengan para driver.
+<h3>3.3 Relasi Kuasa Yang Terjadi</h3>
+Relasi kuasa yang terjadi antara pihak pengambil keputusan dan juga pihak yang terlibat adalah perusahaan menempatkan diri sebagai pihak yang secara absolute memegang kekuasaan untuk mengelola algoritma dan aturan-aturan yang akan digunakan oleh para driver dan pelanggan. Lain halnya dengan perusahaan, driver menempatkan diri sebagai pihak yang paling lemah karena dipaksa tunduk oleh algoritma yang telah dibuat oleh perusahaan-perusahaan tempat driver tersebut membuat perjanjian kerja kemitraan yang terkadang, perjanjian ini jika dilihat dari kacamata seorang driver tidak menguntungkan dan malah terkesan merugikan driver tersebut [12]. Sementara pelanggan sebagai penikmat jasa menepatkan diri sebagai pihak netral, dalam artian tidak banyak terpengaruh algoritma yang dibuat oleh pihak perusahaan.
 <!-- ==================== BAGIAN UTAMA II: ANALISIS ETIS & IDEOLOGI ==================== -->
-<h2>BAB IV: ANALISIS EMPAT TEORI ETIKA</h2>
-[Teks kamu di sini]
 
-<h2>BAB V: LENSA KELIMA — PANCASILA</h2>
+<h2 align="center">BAB IV: ANALISIS EMPAT TEORI ETIKA</h2>
+<h3>4.1 Penerapan Utilitarianisme</h3>
+Penerapan etika Utilitarianisme ini terlihat pada dampak algoritma yang dibuat oleh pihak perusahaan, meskipun algoritma tersebut jika dilihat dari sudut pandang seorang driver terkesan merugikan karena adanya ketidaktransparansian pembagian hasil, tapi perkembangan ekonomi yang disebabkan oleh algoritma ini sangat maju. Jumlah mitra driver aktif pertahun 2025 diperkirakan akan melibihi 4.5 juta orang, hal ini memberikan pandangan bahwasannya meskipun adanya ketidak transparan pembagian hasil pada algoritma tapi sistem ojek online sendiri sudah banyak membantu masyarakat-masyarakat yang sebelumnya tidak tersentuh oleh pekerjaan formal mendapatkan pekerjaan sehingga mempunyai penghasilan yang terbilang cukup untuk menghidupi dirinya atau keluarganya [13].
+
+<h3>4.2 Penerapan Deontologi</h3>
+Dari perspektif *deontology*, ketidakadaanya transpransi pembagian hasil pada algoritma terhadap para driver menjadi pelanggaran moral yang besar karena dengan tidak adanya transparansi tersebut berarti driver tidak akan mengetahui dengan pasti pembagian hasil yang dilakukan oleh perusahaan apakah sudah cukup adil atau tidak. Selain itu, adanya praktik *suspend* otomatis tanpa transparansi dan tanpa mekanisme banding yang adil juga merupakah pelanggaran terhadap moral *Deontology* ini. Jika prinsip tersebut diterapkan secara universal bahwa pihak berwenang boleh mencabut mata pencaharian seseorang tanpa proses yang adil maka hal ini akan merusak keadilan dalam sistem kerja secara keseluruhan [14].
+
+<h3>4.3 Penerapan Etika Kebijakan </h3>
+Dalam konteks *gig economy*, khususnya pada relasi antara *platform* dan pengemudi ojek *online*, *ethics of care* menjadi sangat relevan. *Platform* memiliki posisi dominan karena menguasai teknologi, data, dan mekanisme pengambilan keputusan berbasis algoritma. Sebaliknya, pengemudi berada dalam posisi yang lebih lemah karena bergantung pada sistem yang tidak transparan, sulit dipahami, serta tidak dapat dinegosiasikan secara langsung [15]. Ketimpangan ini menunjukkan bahwa hubungan yang diklaim sebagai “kemitraan” pada praktiknya mengandung relasi ketergantungan yang tinggi, sehingga menuntut adanya tanggung jawab moral yang lebih besar dari pihak *platform*. Dalam kerangka ini, perhatian terhadap kesejahteraan pengemudi tidak cukup diwujudkan melalui kontrak formal, tetapi harus tercermin dalam desain sistem yang adil dan manusiawi [16].
+<br/>
+<br/>
+Implikasi dari pendekatan ini bagi profesional *IT* sangat signifikan. Seorang *engineer* tidak dapat hanya berfokus pada efisiensi sistem atau optimalisasi algoritma, tetapi juga harus mempertimbangkan dampak sosial dari teknologi yang dirancang. Dalam merancang sistem yang mengelola ratusan ribu pekerja, pertanyaan etis yang relevan bukan hanya apakah sistem tersebut efektif, tetapi juga apakah sistem tersebut sensitif terhadap kebutuhan, keterbatasan, dan kerentanan pengguna yang bergantung padanya. Dengan demikian, *ethics of care* mendorong pergeseran perspektif dari sekadar efisiensi teknis menuju tanggung jawab sosial yang lebih luas dalam pengembangan teknologi.
+
+<h3>4.4 Penerapan Etika Hak/Kontraktarian </h3>
+Kontraktian adalah kepentingan untuk memberikan konten pada aturan hukum yang mencerminkan hasil tawar-menawar hipotesis dimana orang diizinkan untuk mempertimbangkan kepentingan rasional mereka sendiri [17].
+
+Dalam konteks *Gig Worker* pada driver ojek online, kontrak yang mereka lakukan dengan perusahaan adalah sebuah kontrak kemitraan yang diberikan oleh perusahaan secara online [12]. Dimana perjanjian kontrak tersebut kurang adil dan cenderung memberatkan pihak driver. Perjanjian kemitraan tersebut berbeda dengan perjanjian kerja antar karyawan dan pemilik perusahaan, dimana perjanjian kerja adalah perjanjian yang memberikan hak kepada pekerja untuk melakukan tawar-menawar mengenai isi dari perjanjian tersebut dengan pihak perusahaan, sedangkan driver online tidak memiliki hak tersebut dikarenakan perjanjian yang mereka miliki adalah perjanjian kemitraan [18]. Hal ini menunjukan bahwa penerapan terhadap etika Hak/Kontraktian di ranah Gig Worker ojek online belum sepenuhnya diterapkan sehingga banyak dari para driver yang tidak memiliki kesempatan untuk menimbang ulang isi dari kontrak tersebut agar sesuai dengan apa yang ia inginkan dan apa yang ia butuhkan.
+
+<h2 align="center">BAB V: LENSA KELIMA — PANCASILA</h2>
 
 Analisis etika terhadap *algorithmic management* pada platform *ride-hailing* tidak cukup berhenti pada kerangka etika Barat seperti utilitarianisme, deontologi, maupun *ethics of care*. Sebagai calon profesional teknologi informasi yang berpijak pada konteks keindonesiaan, penilaian terhadap keadilan sistem digital perlu ditimbang pula melalui Pancasila sebagai sumber nilai etis bangsa. Pancasila menyediakan kerangka moral yang menyatukan dimensi ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sosial, sehingga relevan untuk membedah relasi kuasa yang timpang antara platform dan mitra pengemudi. Bagian ini menganalisis kelima sila yang relevan terhadap empat masalah utama kasus, yaitu suspend otomatis, *dynamic pricing* yang tertutup, tekanan rating, dan minimnya ruang banding.
  
@@ -157,7 +184,7 @@ Selain analisis sila, kasus ini juga dapat dievaluasi melalui lima Nilai Kepanca
 5. **Profesionalisme.** Wajib menjunjung standar etika profesi dalam setiap keputusan desain, menempatkan tanggung jawab sosial sejajar dengan kompetensi teknis.
 Dengan demikian, ditinjau dari kelima sila dan Nilai Kepancasilaan, praktik *algorithmic management* pada platform *ride-hailing* saat ini belum memenuhi standar keadilan dan kemanusiaan yang diamanatkan Pancasila. Diperlukan rekonstruksi desain sistem yang menempatkan martabat manusia, partisipasi, dan keadilan sosial sebagai fondasi utama.
 
-<h2>BAB VI: KODE ETIK PROFESI</h2>
+<h2 align="center">BAB VI: KODE ETIK PROFESI</h2>
 
 Sebagai sebuah profesi yang memiliki daya cipta sekaligus daya rusak yang masif terhadap masyarakat, bidang teknologi informasi diikat oleh standar etika global yang dirumuskan oleh dua organisasi profesi utama, yaitu *Association for Computing Machinery* (ACM) dan *Institute of Electrical and Electronics Engineers* (IEEE). Kedua kode etik ini berfungsi sebagai garis pertahanan moral yang memastikan bahwa inovasi teknologi tidak mengorbankan kepentingan publik. Analisis berikut menelaah pasal-pasal spesifik yang dilanggar atau relevan dalam kasus *algorithmic management* pada platform ride-hailing.
  
@@ -193,21 +220,21 @@ Berdasarkan pemetaan kedua kode etik di atas, jelas bahwa persoalan dalam *algor
 
 
 <!-- ==================== BAGIAN UTAMA III: REGULASI & TATA KELOLA ==================== -->
-<h2>BAB VII: ANALISIS REGULASI & HUKUM</h2>
+<h2 align="center">BAB VII: ANALISIS REGULASI & HUKUM</h2>
 [Teks kamu di sini]
 
-<h2>BAB VIII: CHECKPOINT INTEGRITAS & ANTI-KORUPSI</h2>
+<h2 align="center">BAB VIII: CHECKPOINT INTEGRITAS & ANTI-KORUPSI</h2>
 [Teks kamu di sini]
 
 
 <!-- ==================== BAGIAN UTAMA IV: MANAJEMEN RISIKO & AKHIR ==================== -->
-<h2>BAB IX: MANAJEMEN RISIKO & OPSI 4T</h2>
+<h2 align="center">BAB IX: MANAJEMEN RISIKO & OPSI 4T</h2>
 [Teks kamu di sini]
 
-<h2>BAB X: RANCANGAN DAMPAK & KONTROL PREVENTIF</h2>
+<h2 align="center">BAB X: RANCANGAN DAMPAK & KONTROL PREVENTIF</h2>
 [Teks kamu di sini]
 
-<h2>BAB XI: PELAJARAN UTAMA & DAFTAR PUSTAKA</h2>
+<h2 align="center">BAB XI: PELAJARAN UTAMA & DAFTAR PUSTAKA</h2>
 
 ### Pembelajaran Utama
 [Teks kamu di sini]
@@ -247,8 +274,42 @@ Berdasarkan pemetaan kedua kode etik di atas, jelas bahwa persoalan dalam *algor
         <td valign="top">[8]</td>
         <td>A. Cahyono, I. F. Kusuma, and H. H. Kusumo, “Hubungan Hukum Kemitraan antara Driver Online dengan Penyedia Layanan,” <i>Perspektif Hukum</i>, pp. 317–331, Dec. 2024, doi: <a href="https://doi.org/10.30649/ph.v24i2.311">10.30649/ph.v24i2.311</a>.</td>
     </tr>
-<tr>
+    <tr>
         <td valign="top">[9]</td>
         <td>I. Kadolkar, S. Kepes, dan M. Subramony, “Algorithmic Management in the Gig Economy: A Systematic Review and Research Integration,” <i>Journal of Organizational Behavior</i>, vol. 46, no. 7, pp. 1057–1080, 2025. doi: <a href="https://doi.org/10.1002/job.2831">https://doi.org/10.1002/job.2831</a>.</td>
     </tr>
+    <tr>
+        <td valign="top">[10]</td>
+        <td>N. R. Izzati, “Ketidakseimbangan Kewajiban Para Pihak dalam Regulasi Ojek Online: Distorsi Logika Hubungan Kemitraan Ekonomi Gig,” Undang: Jurnal Hukum, vol. 5, no. 2, hlm. 325–356, Des 2022, doi: <a href="https://doi.org/10.22437/ujh.5.2.325-356">https://doi.org/10.22437/ujh.5.2.325-356</a>.</td>
+    </tr>
+    <tr>
+        <td valign="top">[12]</td>
+        <td>B. Rahmanda dan L. Jonathan, “IMPLEMENTASI PERJANJIAN KERJA PENGEMUDI OJEK ONLINE DENGAN PERUSAHAAN PENYEDIA APLIKASI,” Jurnal Gema Keadilan, vol. 9 (3), Des 2022., doi: <a href="https://doi.org/10.14710/gk.2022.16681">https://doi.org/10.14710/gk.2022.16681</a>.</td>
+    </tr>
+    <tr>
+        <td valign="top">[13]</td>
+        <td>A. Z. D. Lestari, P. Elyana, dan R. M. Sari, “Analisis Algorithmic Management dan Kepuasan Kerja Driver Ojek Online Generasi Z di Indonesia,” DIMENSI JOURNAL: Dinamika Manajemen dan Ekonomi Indonesia, vol. 1, no. 1, hlm. 13–20, 2026, doi: <a href="https://doi.org/10.47353/dimensi.v1i1.4741">https://doi.org/10.47353/dimensi.v1i1.4741</a>.</td>
+    </tr>
+    <tr>
+        <td valign="top">[14]</td>
+        <td>M. Stevania and S. H. Hoesin, “Analisis kepastian hukum jaminan sosial ketenagakerjaan bagi gig worker pada era gig economy di Indonesia,” <i>Jurnal Ilmiah Penegakan Hukum</i>, vol. 11, no. 2, pp. 268–277, 2024, doi: <a href="https://doi.org/10.31289/jiph.v11i2.11968">https://doi.org/10.31289/jiph.v11i2.11968</a>.</td>
+  </tr>
+  <tr>
+    <td valign="top">[15]</td>
+    <td>M. Khairullah, R. O. Novasari, T. Kartika, and N. Y. Aryanti, “Digital Exploitation in the Gig Economy: A Marxian Study on Platform and Online Ojek Driver Relations,” <i>Electronic Journal of Education, Social Economics and Technology</i>, vol. 6, no. 1, 2025, doi: <a href="https://doi.org/10.33122/ejeset.v6i1.706">https://doi.org/10.33122/ejeset.v6i1.706</a>.</td>
+  </tr>
+  <tr>
+    <td valign="top">[16]</td>
+    <td>S. Asrori, M. Isma’il, and E. F. Gamalinda, “The flexibility illusion: Algorithmic control and precarity in Indonesia’s gig economy,” <i>Simulacra</i>, vol. 8, no. 2, pp. 187–205, Nov. 2025, doi: <a href="https://doi.org/10.21107/sml.v8i2.30214">https://doi.org/10.21107/sml.v8i2.30214</a>.</td>
+  </tr>
+  <tr>
+    <td valign="top">[17]</td>
+    <td>A. Zefanya, “Implikasi Filsafat Hukum dalam Melakukan Kebijakan dalam Pembuatan dan Perancangan Kontrak Internasional,” SOSMANIORA: Jurnal Ilmu Sosial dan Humaniora, vol. 1, no. 4, hlm. 527–533, Des 2022, doi: <a href="https://doi.org/10.55123/sosmaniora.v1i4.1213">https://doi.org/10.55123/sosmaniora.v1i4.1213</a>.</td>
+  </tr>
+   <tr>
+        <td valign="top">[18]</td>
+        <td>A. Cahyono, I. F. Kusuma, and H. H. Kusumo, “Hubungan Hukum Kemitraan antara Driver Online dengan Penyedia Layanan,” <i>Perspektif Hukum</i>, pp. 317–331, Dec. 2024, doi: <a href="https://doi.org/10.30649/ph.v24i2.311">10.30649/ph.v24i2.311</a>.</td>
+    </tr>
 </table>
+  
+  
