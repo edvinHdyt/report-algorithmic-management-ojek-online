@@ -119,9 +119,11 @@ Permasalahan-permasalahan yang dialami oleh mitra driver tidak terlepas dari dip
 
 <h3>3.1 Pihak Yang Terlibat </h3>
 Pihak-pihak yang terlibat dalam fenomena Gig Worker ini bersumber dari individu atau organisasi yang saling berinteraksi. Driver, pelanggan, dan perusahaan adalah pihak-pihak yang terlibat dalam fenomena gig worker ini [10]. Dimana driver adalah sebuah individu yang mempunyai hubungan kemitraan dengan perusahaan dan juga pihak yang bekerja sekaligus juga pihak yang secara langsung terdampak dari adanya algoritma dan keputusan yang dibuat oleh perusahaan tempat mereka menjalin hubungan kemitraan.
-
+<br/>
+<br/>
 Sementara driver adalah individu yang terdamapak secara langsung oleh algoritma dan keputusan yang di buat oleh perusahaan, lain halnya dengan pelanggan pihak ini adalah pihak yang memakai jasa driver untuk kebutuhannya entah sekedar menggunakan transportasi yang disediakan, memesan makanan, hingga memesan driver untuk melakukan pengiriman barang [10]. Kendati demikian, pelanggan juga secara tidak langsung merasakan dampak dari keputusan yang dibuat oleh perusahaan mengenai harga yang akan di bayarkan oleh mereka. Hal ini secara tidak langsung menjelaskan bahwa pelanggan adalah pihak yang secara tidak langsung juga terdampak dari keputusan-keputusan yang dibuat oleh perusahaan dan menempatkan mereka sebagai pihak yang terlibat dari fenomena Gig Worker ini sebagai penikmat atau pemakai jasa.
-
+<br/>
+<br/>
 Lain halnya dengan driver dan pelanggan, perusahaan menempatkan diri sebagai pihak yang mengambil keputusan atas pembuatan algoritma aplikasi yang di gunakan oleh driver dan juga pelanggan dalam fenomea Gig Worker ini. Pembahasan lebih lanjut mengenai perusahaan akan dibahas pada bagian selanjutnya yaitu pihak yang melakukan pengambilan keputusan.
 <h3>3.2 Pihak Pengambil Keputusan </h3>
 Perusahaan menjadi pihak yang mengambil keputusan bagi pembuatan atau pembaharuan algoritma yang digunakan dalam sistem ojek online ini. Hal ini membuat pengelolaan algoritma dan juga keputusan untuk membuat aturan-aturan yang mengikat driver menjadi tanggung jawab sepenuhnya bagi pihak perusahaan, tempat para driver melakukan perjanjian kerja [12]. Selain membuat aturan dan juga mengelola alogritma sistem, perusahaan juga bertanggung jawab untuk mengambil keputusan jika ada seorang driver yang melanggar aturan dengan memberinya peringatan, memberikan suspensi, atau memutus secara sepihak hubungan kerja kemitraan dengan para driver.
@@ -138,7 +140,8 @@ Dari perspektif *deontology*, ketidakadaanya transpransi pembagian hasil pada al
 
 <h3>4.3 Penerapan Etika Kebijakan </h3>
 Dalam konteks *gig economy*, khususnya pada relasi antara *platform* dan pengemudi ojek *online*, *ethics of care* menjadi sangat relevan. *Platform* memiliki posisi dominan karena menguasai teknologi, data, dan mekanisme pengambilan keputusan berbasis algoritma. Sebaliknya, pengemudi berada dalam posisi yang lebih lemah karena bergantung pada sistem yang tidak transparan, sulit dipahami, serta tidak dapat dinegosiasikan secara langsung [15]. Ketimpangan ini menunjukkan bahwa hubungan yang diklaim sebagai “kemitraan” pada praktiknya mengandung relasi ketergantungan yang tinggi, sehingga menuntut adanya tanggung jawab moral yang lebih besar dari pihak *platform*. Dalam kerangka ini, perhatian terhadap kesejahteraan pengemudi tidak cukup diwujudkan melalui kontrak formal, tetapi harus tercermin dalam desain sistem yang adil dan manusiawi [16].
-
+<br/>
+<br/>
 Implikasi dari pendekatan ini bagi profesional *IT* sangat signifikan. Seorang *engineer* tidak dapat hanya berfokus pada efisiensi sistem atau optimalisasi algoritma, tetapi juga harus mempertimbangkan dampak sosial dari teknologi yang dirancang. Dalam merancang sistem yang mengelola ratusan ribu pekerja, pertanyaan etis yang relevan bukan hanya apakah sistem tersebut efektif, tetapi juga apakah sistem tersebut sensitif terhadap kebutuhan, keterbatasan, dan kerentanan pengguna yang bergantung padanya. Dengan demikian, *ethics of care* mendorong pergeseran perspektif dari sekadar efisiensi teknis menuju tanggung jawab sosial yang lebih luas dalam pengembangan teknologi.
 
 <h3>4.4 Penerapan Etika Hak/Kontraktarian </h3>
