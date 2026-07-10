@@ -273,10 +273,62 @@ Integritas profesional menuntut agar setiap baris kode yang ditulis oleh *softwa
 
 <!-- ==================== BAGIAN UTAMA IV: MANAJEMEN RISIKO & AKHIR ==================== -->
 <h2 align="center">BAB IX: MANAJEMEN RISIKO & OPSI 4T</h2>
-[Teks kamu di sini]
+
+Analisis manajemen risiko ini menggunakan kerangka kerja **ISO 31000** untuk mengidentifikasi, mengevaluasi, dan menangani risiko etis serta operasional yang timbul dari implementasi *algorithmic management* pada platform *ride-hailing* (Gojek/Grab). Pendekatan ini bertujuan untuk memetakan seberapa besar probabilitas terjadinya insiden dan seberapa parah dampaknya terhadap para pemangku kepentingan, khususnya mitra pengemudi.
+
+### 9.1 Matriks Risiko Etis dan Operasional (ISO 31000)
+
+Pemetaan matriks risiko diukur berdasarkan dua dimensi utama: **Kemungkinan (Likelihood)** dan **Dampak (Impact)**.
+
+| No | Identifikasi Risiko | Deskripsi Konteks | Kemungkinan (1-5) | Dampak (1-5) | Tingkat Risiko |
+|:--:|:---|:---|:---:|:---:|:---:|
+| 1 | **Eksploitasi Pekerja & Kehilangan Mata Pencaharian** | Sanksi *suspend* otomatis yang diakibatkan oleh indikasi orderan fiktif tanpa ruang klarifikasi [5]. | 5 (Sangat Sering) | 5 (Sangat Parah) | **Kritis (Tinggi)** |
+| 2 | **Ketidakpastian Finansial (*Dynamic Pricing*)** | Sifat algoritma *black-box* yang menyembunyikan variabel perhitungan tarif membuat mitra tidak memiliki kepastian pendapatan yang rasional [5]. | 4 (Sering) | 4 (Parah) | **Tinggi** |
+| 3 | **Risiko Kecelakaan & Keselamatan Kerja** | Jam kerja tidak terbatas dan tekanan dari algoritma gamifikasi (mengejar target/rating) menyebabkan kelelahan ekstrem pada pengemudi [5]. | 4 (Sering) | 5 (Sangat Parah) | **Kritis (Tinggi)** |
+| 4 | **Pelanggaran Regulasi & Hukum** | Potensi gugatan hukum atau sanksi pemerintah terkait status "mitra" yang digunakan untuk menghindari kewajiban jaminan sosial [5]. | 3 (Mungkin) | 4 (Parah) | **Sedang-Tinggi** |
+| 5 | **Kerusakan Ekologis (Emisi Karbon)** | Algoritma alokasi order yang tidak efisien memaksa pengemudi melakukan *cruising for fares* (berkeliling tanpa arah), meningkatkan emisi karbon perkotaan [5]. | 5 (Sangat Sering) | 3 (Sedang) | **Tinggi** |
+
+### 9.2 Opsi Penanganan Risiko (Pendekatan 4T)
+
+Berdasarkan matriks risiko di atas, berikut adalah strategi penanganan menggunakan kerangka **4T (Terima, Tangani, Transfer, Tinggalkan)**:
+
+1. **Tangani (*Treat*) - Risiko 1, 2, dan 5**
+   * **Risiko 1 (Suspend Otomatis):** Platform harus merekayasa ulang alur pengambilan keputusan dengan mengimplementasikan arsitektur *Human-in-the-Loop* (HITL) [5]. *Suspend* permanen tidak boleh dieksekusi secara mandiri oleh mesin [4][5].
+   * **Risiko 2 (Ketidakpastian Finansial):** Membangun UI/UX *dashboard* khusus pada aplikasi mitra yang menampilkan transparansi metrik perhitungan harga secara *real-time* untuk memastikan *algorithmic fairness* [4].
+   * **Risiko 5 (Emisi Karbon):** Menangani masalah ekologis dengan mengoptimalkan algoritma *routing* dan prediksi permintaan (*demand prediction*) agar pengemudi diarahkan ke titik kumpul yang presisi, menekan mobilitas kosong penyebab polusi [5].
+
+2. **Transfer (*Transfer*) - Risiko 3**
+   * **Risiko Kecelakaan Kerja:** Platform harus mentransfer risiko finansial akibat kecelakaan lalu lintas atau gangguan kesehatan kronis mitra pengemudi kepada lembaga asuransi pihak ketiga. Hal ini sejalan dengan mandat perlindungan pekerja yang tercakup dalam Perpres Nomor 27 Tahun 2026 yang mewajibkan platform untuk memfasilitasi jaminan kecelakaan kerja dan BPJS Kesehatan [5].
+
+3. **Tinggalkan (*Terminate*) - Praktik Eksploitatif**
+   * Platform harus dengan tegas **meninggalkan** kebijakan *zero-tolerance* yang mengeksekusi penalti tanpa pengadilan yang adil (*due process*). Praktik berlindung di balik status "kemitraan" demi melepaskan tanggung jawab moral atas kesejahteraan *gig worker* harus segera diakhiri karena bertentangan dengan Kode Etik ACM dan IEEE [4][5].
+
+4. **Terima (*Tolerate*) - Fluktuasi Permintaan Pasar**
+   * Risiko terkait fluktuasi jumlah order harian akibat dinamika pasar (seperti cuaca atau hari libur) adalah risiko bisnis normal yang dapat **diterima**, dengan catatan platform telah mengamankan batas bawah (*floor price*) pendapatan minimum yang layak bagi para mitra.
 
 <h2 align="center">BAB X: RANCANGAN DAMPAK & KONTROL PREVENTIF</h2>
-[Teks kamu di sini]
+Untuk memastikan kegagalan etika profesi TI dalam kasus algoritma manajemen ini tidak terulang, diperlukan intervensi pada level arsitektur sistem, kebijakan manajerial, dan legislasi negara. Berikut adalah rancangan kontrol preventif dan desain dampaknya terhadap masyarakat.
+
+### 10.1 Kontrol Preventif Terintegrasi
+
+**A. Kontrol Teknis (Level Rekayasa Perangkat Lunak)**
+1. **Desain *Human-in-the-Loop* (HITL) pada Sistem Sanksi:** Mengembangkan modul *dispute resolution* di dalam aplikasi [5]. Algoritma hanya berhak memberikan *flagging* atau peringatan sementara; keputusan pemutusan kemitraan wajib divalidasi oleh tim evaluator manusia untuk memastikan tidak ada pengemudi yang menjadi korban sistem atau penipuan *order* fiktif [5].
+2. **Keterbukaan Algoritma (*Explainable AI/XAI*):** Menerapkan prinsip *Responsible Disclosure* dengan menyediakan dokumentasi visual di dalam aplikasi pengemudi yang menjelaskan parameter utama (jarak, cuaca, *demand*) yang membentuk *dynamic pricing* dan alokasi pesanan saat itu.
+3. **Sistem Pembatasan Jam Kerja Otomatis:** Untuk mencegah kelelahan fatal, sistem harus secara otomatis melakukan *lock-out* (penonaktifan sementara akun) jika algoritma mendeteksi pengemudi telah aktif mengemudi melampaui batas wajar (misalnya 12 jam) dalam satu hari kerja [5].
+
+**B. Kontrol Manajerial & Kebijakan**
+1. **Penerapan *Ethics Board* Independen:** Platform teknologi skala nasional wajib memiliki Dewan Etika (terdiri dari akademisi, pakar TI, sosiolog, dan perwakilan pengemudi) yang bertugas mengaudit algoritma secara berkala sebelum pembaruan sistem diluncurkan (*deployment*) ke publik.
+2. **Perombakan Kontrak Kemitraan:** Meninjau ulang secara radikal "Perjanjian Kemitraan" yang cenderung berat sebelah, guna menjamin keseimbangan antara fleksibilitas kerja dan pemberian hak-hak normatif ketenagakerjaan.
+
+**C. Kontrol Regulasi (Legislasi Hukum)**
+1. Mendorong percepatan pengesahan **RUU Pekerja GIG A22** guna mengisi kekosongan hukum yang selama ini melemahkan posisi pekerja lepas di hadapan entitas korporasi [5]. RUU ini harus mampu memberikan perlindungan kompensasi minimum dan akses jaminan sosial tanpa merusak model bisnis *gig economy* [5].
+
+### 10.2 Rancangan Dampak Sosial ke Masyarakat
+
+Penerapan kontrol preventif di atas dirancang untuk memberikan transformasi positif (*societal impact*) yang signifikan:
+* **Bagi Kesejahteraan Manusia (Mitra Pengemudi):** Mengembalikan otonomi dan martabat manusia. Pengemudi akan terbebas dari stres kronis yang dipicu oleh "ilusi fleksibilitas" dan ancaman *auto-suspend* [5]. Kepastian asuransi dan pendapatan yang transparan akan secara bertahap mengangkat kelas sosial dan mencegah mereka jatuh ke dalam jurang kemiskinan struktural.
+* **Bagi Keberlanjutan Lingkungan (Planet):** Dengan efisiensi *routing* algoritma yang tidak lagi memaksa pengemudi mencari pesanan tanpa arah, konsumsi bahan bakar minyak dapat ditekan secara drastis, berimbas pada membaiknya kualitas udara perkotaan akibat penurunan emisi karbon [5].
+* **Bagi Integritas Profesi Teknologi:** Memulihkan kembali kepercayaan publik (*public trust*) terhadap inovasi teknologi, sekaligus menegaskan bahwa insinyur perangkat lunak Indonesia adalah agen moral yang tunduk pada nilai-nilai Pancasila serta memprioritaskan "kesejahteraan dan keselamatan publik" sesuai dengan Kode Etik ACM dan IEEE [5].
 
 <h2 align="center">BAB XI: PELAJARAN UTAMA & DAFTAR PUSTAKA</h2>
 
