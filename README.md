@@ -175,37 +175,50 @@ A. Pemisahan Fakta Terverifikasi dan Informasi dalam Sengketa
 
 - Bagian 2.1 (Fakta Terverifikasi) memuat informasi yang telah dapat dipastikan kebenarannya karena didukung oleh sumber-sumber yang dapat diperiksa, yaitu:
 
-1. Konflik Suspend Surabaya 2015 — Bersumber dari pemberitaan media massa (SuaraSurabaya.net dan Republika Online) yang meliput langsung peristiwa unjuk rasa driver Gojek pada Desember 2015. Kedua sumber ini adalah laporan jurnalistik yang dapat diverifikasi kebenarannya.
+1. Konflik Suspend Surabaya 2015: 
+Bersumber dari pemberitaan media massa (SuaraSurabaya.net dan Republika Online) yang meliput langsung peristiwa unjuk rasa driver Gojek pada Desember 2015. Kedua sumber ini adalah laporan jurnalistik yang dapat diverifikasi kebenarannya.
 
-2. Data Penurunan Pendapatan Driver — Bersumber dari survei yang dilakukan oleh Institute for Demographic and Affluence Studies (IDEAS) terhadap 1.018 pengemudi ojol di 67 kabupaten/kota pada Desember 2025. IDEAS adalah lembaga riset independen yang dapat dipertanggungjawabkan kredibilitasnya.
+2. Data Penurunan Pendapatan Driver: 
+Bersumber dari survei yang dilakukan oleh Institute for Demographic and Affluence Studies (IDEAS) terhadap 1.018 pengemudi ojol di 67 kabupaten/kota pada Desember 2025. IDEAS adalah lembaga riset independen yang dapat dipertanggungjawabkan kredibilitasnya.
 
-3. Perpres Nomor 27 Tahun 2026 — Bersumber dari dokumen peraturan perundang-undangan yang telah diterbitkan dan diberitakan oleh media massa nasional (Kontan, Holopis, AyoBandung). Peraturan ini adalah dokumen resmi negara yang dapat diakses publik.
+3. Perpres Nomor 27 Tahun 2026: 
+Bersumber dari dokumen peraturan perundang-undangan yang telah diterbitkan dan diberitakan oleh media massa nasional (Kontan, Holopis, AyoBandung). Peraturan ini adalah dokumen resmi negara yang dapat diakses publik.
 
-4. Inisiasi RUU Pekerja GIG A22 — Bersumber dari pemberitaan media massa (RRI, Media Indonesia, Detik) yang meliput pernyataan resmi DPR RI mengenai inisiasi RUU tersebut.
+4. Inisiasi RUU Pekerja GIG A22: 
+Bersumber dari pemberitaan media massa (RRI, Media Indonesia, Detik) yang meliput pernyataan resmi DPR RI mengenai inisiasi RUU tersebut.
 
-5. Usulan Revisi UU LLAJ — Bersumber dari pemberitaan RRI yang meliput pernyataan resmi Komisi V DPR RI.
+5. Usulan Revisi UU LLAJ: 
+Bersumber dari pemberitaan RRI yang meliput pernyataan resmi Komisi V DPR RI.
 
 - Bagian 2.2 (Informasi dalam Sengketa/Investigasi) memuat informasi yang masih memerlukan verifikasi lebih lanjut karena:
 
-1. Fenomena "Anyep" — Merupakan klaim dari sejumlah driver yang didokumentasikan dalam penelitian Asrori dkk., namun belum dikonfirmasi secara resmi oleh platform (Gojek/Grab) melalui pernyataan publik atau data internal. Tidak ada data resmi dari platform yang membenarkan atau menyangkal adanya mekanisme sanksi halus tersebut.
+1. Fenomena "Anyep": 
+Merupakan klaim dari sejumlah driver yang didokumentasikan dalam penelitian Asrori dkk., namun belum dikonfirmasi secara resmi oleh platform (Gojek/Grab) melalui pernyataan publik atau data internal. Tidak ada data resmi dari platform yang membenarkan atau menyangkal adanya mekanisme sanksi halus tersebut.
 
-2. Efektivitas Penurunan Komisi 8% — Angka peningkatan pendapatan 26–31% (Rp1,91–1,99 juta/bulan) adalah hasil simulasi atau proyeksi berdasarkan asumsi tertentu, bukan data riil di lapangan. Dampak aktual baru dapat diketahui setelah kebijakan Perpres 27/2026 diimplementasikan dan dievaluasi secara empiris.
+2. Efektivitas Penurunan Komisi 8%: 
+Angka peningkatan pendapatan 26–31% (Rp1,91–1,99 juta/bulan) adalah hasil simulasi atau proyeksi berdasarkan asumsi tertentu, bukan data riil di lapangan. Dampak aktual baru dapat diketahui setelah kebijakan Perpres 27/2026 diimplementasikan dan dievaluasi secara empiris.
 
-3. Status Hukum Driver — Wacana perubahan status dari "mitra" menjadi "pekerja" masih dalam proses pembahasan di DPR RI dan belum memiliki kepastian hukum. Status hukum driver saat ini (per Juli 2026) masih "mitra" sebagaimana diatur dalam perjanjian kemitraan.
+3. Status Hukum Driver: 
+Wacana perubahan status dari "mitra" menjadi "pekerja" masih dalam proses pembahasan di DPR RI dan belum memiliki kepastian hukum. Status hukum driver saat ini (per Juli 2026) masih "mitra" sebagaimana diatur dalam perjanjian kemitraan.
 
-4. Transparansi Algoritma — Klaim mengenai opacity algoritmik didasarkan pada penelitian dan kesaksian driver, namun platform belum secara resmi mengungkapkan detail formula algoritma mereka, sehingga kebenaran klaim tersebut belum dapat dipastikan.
+4. Transparansi Algoritma: 
+Klaim mengenai opacity algoritmik didasarkan pada penelitian dan kesaksian driver, namun platform belum secara resmi mengungkapkan detail formula algoritma mereka, sehingga kebenaran klaim tersebut belum dapat dipastikan.
 
 B. Penanda Fakta yang Perlu Diverifikasi Pembaca
 
 Pembaca disarankan untuk melakukan verifikasi mandiri terhadap informasi-informasi berikut dengan merujuk pada sumber-sumber primer:
 
-1. Fenomena "anyep" — Periksa pernyataan resmi Gojek/Grab mengenai mekanisme alokasi order dan program berlangganan. Cek situs resmi atau hubungi layanan pelanggan platform; pantau pemberitaan mengenai program berlangganan.
+1. Fenomena "anyep": 
+Periksa pernyataan resmi Gojek/Grab mengenai mekanisme alokasi order dan program berlangganan. Cek situs resmi atau hubungi layanan pelanggan platform; pantau pemberitaan mengenai program berlangganan.
 
-2. Dampak aktual Perpres 27/2026 — Tunggu publikasi survei atau penelitian setelah kebijakan berjalan (minimal 3-6 bulan) untuk mengetahui data pendapatan driver pasca-implementasi.
+2. Dampak aktual Perpres 27/2026: 
+Tunggu publikasi survei atau penelitian setelah kebijakan berjalan (minimal 3-6 bulan) untuk mengetahui data pendapatan driver pasca-implementasi.
 
-3. Status hukum driver — Pantau situs DPR RI (www.dpr.go.id) dan Kementerian Ketenagakerjaan (www.kemnaker.go.id) untuk mengetahui perkembangan peraturan perundang-undangan terbaru.
+3. Status hukum driver: 
+Pantau situs DPR RI (www.dpr.go.id) dan Kementerian Ketenagakerjaan (www.kemnaker.go.id) untuk mengetahui perkembangan peraturan perundang-undangan terbaru.
 
-4. Transparansi algoritma — Cek kebijakan privasi dan syarat ketentuan platform; pantau pernyataan publik Gojek/Grab mengenai pengakuan resmi terkait formula algoritma.
+4. Transparansi algoritma: 
+Cek kebijakan privasi dan syarat ketentuan platform; pantau pernyataan publik Gojek/Grab mengenai pengakuan resmi terkait formula algoritma.
 
 <h2>Analisis Empat Teori Etika</h2>
 text
