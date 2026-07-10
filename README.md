@@ -221,11 +221,55 @@ Berdasarkan pemetaan kedua kode etik di atas, jelas bahwa persoalan dalam *algor
 
 <!-- ==================== BAGIAN UTAMA III: REGULASI & TATA KELOLA ==================== -->
 <h2 align="center">BAB VII: ANALISIS REGULASI & HUKUM</h2>
-[Teks kamu di sini]
+
+Analisis regulasi dan hukum menjadi instrumen krusial untuk memetakan sejauh mana *algorithmic management* pada platform *ride-hailing* beroperasi dalam koridor hukum positif di Indonesia. Bagian ini memisahkan secara tegas antara tanggung jawab hukum (legalitas tertulis) dengan tanggung jawab moral (etika) profesi pengembang teknologi, serta menguji dampaknya terhadap hak-hak mitra pengemudi.
+
+### 7.1 Kepatuhan Terhadap Regulasi Pelindungan Data Pribadi (UU PDP)
+Penerapan sistem manajemen algoritmik mengandalkan pemrosesan data pribadi mitra pengemudi secara masif, mulai dari data geolokasi waktu-nyata (*real-time*), rekam jejak transaksi, hingga penilaian perilaku melalui fitur rating. Berdasarkan Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP), platform bertindak sebagai Pengendali Data Pribadi yang memiliki kewajiban hukum mutlak.
+
+*   **Transparansi Pemrosesan Data (Pasal 21 UU PDP):** UU PDP mewajibkan pengendali data untuk memberikan informasi yang jelas mengenai tujuan pemrosesan dan akuntabilitas sistem. Sifat *black box* pada algoritma penentu tarif (*dynamic pricing*) dan alokasi order melanggar hak mitra untuk mengetahui bagaimana data aktivitas mereka dikonversikan menjadi keputusan ekonomi [5]. Ketertutupan ini menciptakan ketimpangan informasi yang melanggar hak transparansi [5].
+*   **Pengambilan Keputusan Otomatis (Pasal 50 UU PDP):** UU PDP memberikan hak kepada subjek data untuk mengajukan keberatan terhadap keputusan yang dinilai hanya berdasarkan pemrosesan otomatis (*automated decision-making*) yang menimbulkan akibat hukum atau berdampak signifikan pada subjek tersebut. Praktik *suspend* otomatis yang langsung memutus akun pengemudi tanpa verifikasi manusia secara nyata melanggar hak prosedural pengemudi untuk mendapatkan peninjauan kembali yang adil [2].
+
+### 7.2 Transparansi Informasi Elektronik Berdasarkan UU ITE
+Undang-Undang Nomor 1 Tahun 2024 tentang Perubahan Kedua atas UU No. 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (UU ITE) mengatur akuntabilitas penyelenggaraan sistem elektronik.
+*   **Andal dan Aman (Pasal 15 UU ITE):** Platform wajib menyelenggarakan sistem elektronik secara andal, aman, dan bertanggung jawab. Ketika algoritma gagal memitigasi serangan dari pihak ketiga (seperti fenomena orderan fiktif) dan justru menghukum driver yang menjadi korban melalui pemutusan akun sepihak, sistem tersebut tidak memenuhi standar keandalan hukum [2]. 
+*   **Manipulasi Informasi Elektronik:** Ketidakjelasan indikator target performa yang berubah-ubah secara sepihak di dalam aplikasi tanpa pemberitahuan tertulis yang patut dinilai melanggar asas iktikad baik dan kepastian hukum dalam transaksi elektronik.
+
+### 7.3 Regulasi Sektoral Ketenagakerjaan dan Transportasi (Konteks Kebijakan 2026)
+Hingga tahun 2026, status hukum pengemudi ojek online sebagai "mitra" memicu perdebatan yuridis yang sengit karena berada di luar payung UU Ketenagakerjaan No. 13 Tahun 2003, sehingga mengeksklusifkan mereka dari hak upah minimum, pesangon, dan pembatasan jam kerja normatif [6, 7]. Namun, dinamika hukum terbaru menunjukkan respons konkret dari pemerintah:
+*   **Peraturan Presiden Nomor 27 Tahun 2026:** Regulasi ini hadir secara spesifik memotong batas maksimal komisi aplikator dari 20% menjadi maksimal 8%, yang mempertegas hak pengemudi untuk menerima 92% dari hasil keringat mereka secara legal.
+*   **Rancangan Undang-Undang Pekerja GIG A22:** Sebagai langkah progresif mengatasi kekosongan hukum, RUU ini disusun dengan 105 pasal untuk meredefinisi hak pekerja ekonomi gig. RUU ini mewajibkan adanya kompensasi minimum, akses jaminan sosial, serta melarang pemutusan hubungan kemitraan sepihak melalui kewajiban mekanisme hak peninjauan non-otomatis.
+
+### 7.4 Pemisahan Tegas: Tanggung Jawab Hukum vs. Tanggung Jawab Moral
+Dalam rekayasa perangkat lunak, terdapat batasan yang jelas antara kepatuhan hukum (*legal compliance*) dan integritas moral (*moral responsibility*):
+
+| Dimensi Analisis | Tanggung Jawab Hukum (Legal) | Tanggung Jawab Moral (Etis) |
+| :--- | :--- | :--- |
+| **Dasar Aturan** | Teks tertulis dalam undang-undang (UU PDP, UU ITE, Perpres No. 27/2026) [5, 6]. | Kode Etik Profesi (ACM/IEEE) dan Nilai Kepancasilaan UP [3, 9]. |
+| **Sifat Sanksi** | Sanksi administratif, denda materiil, atau pembatalan izin operasional platform oleh negara [2]. | Kerusakan reputasi profesional, sanksi sosial, dan rasa bersalah karena mencederai kemanusiaan. |
+| **Batasan Kasus** | Platform sering kali memanfaatkan celah hukum kontrak "kemitraan" ojek online untuk menghindari kewajiban jaminan sosial [7, 8]. | Pengembang sistem tetap terikat kewajiban etis untuk tidak membahayakan pengguna (*avoid harm*) dan menjaga kesejahteraan (*human well-being*) [3, 9]. |
+| **Implementasi** | Memastikan pemotongan komisi tidak lewat 8% dan menyediakan tombol persetujuan data pribadi. | Merancang arsitektur algoritma yang dari awal (*by design*) transparan, adil, dan tidak mengeksploitasi kerentanan pengemudi [9]. |
 
 <h2 align="center">BAB VIII: CHECKPOINT INTEGRITAS & ANTI-KORUPSI</h2>
-[Teks kamu di sini]
 
+Dalam mata kuliah Etika Profesi, konsep "anti-korupsi" tidak hanya dimaknai sempit sebagai kerugian keuangan negara (UU Tipikor), melainkan diletakkan pada kerangka yang lebih luas, yaitu **integritas profesional dan pencegahan penyalahgunaan kepercayaan atau kewenangan dalam ekosistem digital.
+
+### 8.1 Penyalahgunaan Kepercayaan dan Relasi Kuasa 
+Perusahaan platform berperan sebagai pemegang kendali mutlak atas infrastruktur digital yang menjadi ruang hidup jutaan pengemudi [15]. Fenomena *algorithmic management* menunjukkan adanya bentuk penyalahgunaan posisi dominan ini:
+*   **Ilusi Fleksibilitas sebagai Manipulasi Sistem:** Platform mempromosikan status "mitra" yang bebas dan fleksibel untuk menarik minat pekerja [16]. Namun, pengembang menyisipkan kode algoritma berupa insentif berjenjang, penalti penurunan rating, dan pembatasan order (*anyep*) bagi mereka yang tidak mengikuti skema platform [3, 16]. Ini adalah tindakan manipulasi sistemik yang menyalahgunakan kepercayaan pengemudi demi kepentingan korporasi sepihak [15].
+*   **Penyembunyian Cacat Desain Sistem (*Concealment of Flaws*):** Para insinyur perangkat lunak yang mengetahui bahwa algoritma deteksi fraud mereka memiliki tingkat *false positive* yang tinggi (sehingga sering salah mendeteksi orderan fiktif dan memblokir driver jujur) namun memilih diam demi efisiensi biaya operational operasional, telah melakukan pelanggaran integritas serius [2]. Tindakan menyembunyikan kelemahan sistem ini setara dengan menyembunyikan cacat material pada proyek konstruksi fisik.
+
+### 8.2 Analisis Konflik Kepentingan
+Konflik kepentingan terjadi ketika kepentingan ekonomi platform untuk memaksimalkan keuntungan (*Profit*) mengorbankan tanggung jawab perlindungan terhadap manusia (*People*) [4]. 
+*   Melalui fitur *dynamic pricing* yang digerakkan oleh AI, algoritma menaikkan tarif saat permintaan tinggi, tetapi pembagian hasil yang mengalir ke pengemudi tidak meningkat secara proporsional [5]. 
+*   Platform memposisikan diri hanya sebagai penyedia teknologi digital untuk menghindari beban biaya asuransi kecelakaan, kesehatan, dan pemeliharaan kendaraan, lalu membebankan seluruh risiko tersebut ke pundak pengemudi [6, 8]. Ketertutupan parameter tarif ini sengaja dipertahankan oleh pengembang sistem demi menjaga keuntungan algoritma di atas prinsip keadilan.
+
+### 8.3 Relevansi Terhadap Hukum Anti-Korupsi (Lensa UU Tipikor)
+Meskipun kasus ini mayoritas terjadi pada sektor privat (perusahaan teknologi swasta), lensa UU No. 31 Tahun 1999 *jo.* UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi tetap memiliki relevansi dalam dimensi berikut:
+*   **Penyalahgunaan Data Publik:** Jika platform *ride-hailing* melakukan integrasi atau penyalahgunaan data kependudukan dari instansi pemerintah tanpa izin yang sah demi penargetan algoritma komersial, hal tersebut dapat dikategorikan sebagai penyalahgunaan kewenangan yang merugikan kepentingan umum.
+*   **Suap dan Gratifikasi Regulasi:** Pengawasan ketat wajib dilakukan untuk memastikan bahwa bertahannya ketertutupan algoritma dan lambatnya penetapan perlindungan pekerja gig selama bertahun-tahun sebelum tahun 2026 bebas dari praktik lobi ilegal atau korupsi legislasi oleh korporasi teknologi raksasa terhadap pembuat kebijakan.
+
+Integritas profesional menuntut agar setiap baris kode yang ditulis oleh *software engineer* tidak mengkhianati kepercayaan masyarakat yang mengandalkan sistem tersebut untuk menyambung hidup.
 
 <!-- ==================== BAGIAN UTAMA IV: MANAJEMEN RISIKO & AKHIR ==================== -->
 <h2 align="center">BAB IX: MANAJEMEN RISIKO & OPSI 4T</h2>
