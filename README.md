@@ -221,7 +221,6 @@ Berdasarkan pemetaan kedua kode etik di atas, jelas bahwa persoalan dalam *algor
 
 <!-- ==================== BAGIAN UTAMA III: REGULASI & TATA KELOLA ==================== -->
 <h2 align="center">BAB VII: ANALISIS REGULASI & HUKUM</h2>
-[Teks kamu di sini]
 
 Analisis regulasi dan hukum menjadi instrumen krusial untuk memetakan sejauh mana *algorithmic management* pada platform *ride-hailing* beroperasi dalam koridor hukum positif di Indonesia. Bagian ini memisahkan secara tegas antara tanggung jawab hukum (legalitas tertulis) dengan tanggung jawab moral (etika) profesi pengembang teknologi, serta menguji dampaknya terhadap hak-hak mitra pengemudi.
 
@@ -252,7 +251,6 @@ Dalam rekayasa perangkat lunak, terdapat batasan yang jelas antara kepatuhan huk
 | **Implementasi** | Memastikan pemotongan komisi tidak lewat 8% dan menyediakan tombol persetujuan data pribadi. | Merancang arsitektur algoritma yang dari awal (*by design*) transparan, adil, dan tidak mengeksploitasi kerentanan pengemudi [9]. |
 
 <h2 align="center">BAB VIII: CHECKPOINT INTEGRITAS & ANTI-KORUPSI</h2>
-[Teks kamu di sini]
 
 Dalam mata kuliah Etika Profesi, konsep "anti-korupsi" tidak hanya dimaknai sempit sebagai kerugian keuangan negara (UU Tipikor), melainkan diletakkan pada kerangka yang lebih luas, yaitu **integritas profesional dan pencegahan penyalahgunaan kepercayaan atau kewenangan dalam ekosistem digital.
 
