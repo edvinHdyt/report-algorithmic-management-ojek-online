@@ -237,7 +237,25 @@ Berdasarkan pemetaan kedua kode etik di atas, jelas bahwa persoalan dalam *algor
 <h2 align="center">BAB XI: PELAJARAN UTAMA & DAFTAR PUSTAKA</h2>
 
 ### Pembelajaran Utama
-[Teks kamu di sini]
+<table>
+    <thead> 
+        <tr>
+            <th>Nama</th>
+            <th>Refleksi Pembelajaran Utama</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Muhamad Edvin Hidayat</td>
+            <td>
+                Refleksi pembelajaran utama dari hasil laporan ini adalah bahwa penerapan etika-etika seperti Utilitarianisme, Deontology, Etika Kebijakan, dan Etika Hak/Kontraktian sangat penting dalam pekerjaan *Gig Worker* ini dalam menunjang tidak hanya kesejahteraan perusahaan namun juga para pekerja yang menekan kontrak di perusahaan tersebut. Jika prinsip dari etika profesi tersebut tidak diterapkan dengan baik maka akan timbul ketimpangan kesejahteraan di satu pihak saja dan melahirkan sistem lingkungan kerja yang tidak adil bagi para pekerja yang bekerja di sistem tersebut.
+                </br>
+                </br>
+                Dilain sisi, sebagai seorang yang akan bekerja di dunia profesional IT saya mendapatkan pembelajaran bahwa penerapan etika tersebut juga sangat penting dalam bidang teknlogi yang digunakan oleh para pekerja sebagai bentuk upaya dari mewujudkan sistem yang adil dan manusiawi untuk para pekerja *Gig Worker* atau sektor informal maupun formal lainnya.
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### Daftar Pustaka
 
