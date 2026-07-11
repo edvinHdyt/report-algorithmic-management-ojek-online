@@ -126,7 +126,7 @@ Hingga tahun 2026, polemik status hukum mitra pengemudi masih berlanjut. Wakil K
 
 Penurunan pendapatan driver juga menjadi sorotan serius. Institute for Demographic and Affluence Studies (IDEAS) mencatat pendapatan bersih pengemudi ojol turun drastis dari sekitar Rp2,9 juta per bulan pada 2023 menjadi hanya sekitar Rp1,7 juta per bulan pada 2025 . Survei yang dilakukan terhadap 1.018 pengemudi ojol di 67 kabupaten/kota pada Desember 2025 juga mengungkapkan bahwa pendapatan kotor harian turun dari Rp168 ribu menjadi Rp126 ribu, sementara biaya operasional harian naik dari Rp53 ribu menjadi Rp58 ribu per hari, setara 46% dari pendapatan kotor mereka .
 
-<h2>BAB II: Fakta Kunci & Catatan Transparansi</h2>
+<h2 align="center">BAB II: Fakta Kunci & Catatan Transparansi</h2>
 
 ### 2.1 Fakta Terverifikasi 
 
