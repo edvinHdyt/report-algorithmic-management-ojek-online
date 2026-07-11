@@ -467,6 +467,16 @@ Penerapan kontrol preventif di atas dirancang untuk memberikan transformasi posi
                 Dilain sisi, sebagai seorang yang akan bekerja di dunia profesional IT saya mendapatkan pembelajaran bahwa penerapan etika tersebut juga sangat penting dalam bidang teknlogi yang digunakan oleh para pekerja sebagai bentuk upaya dari mewujudkan sistem yang adil dan manusiawi untuk para pekerja *Gig Worker* atau sektor informal maupun formal lainnya.
             </td>
         </tr>
+        <tr>
+            <td>
+                <b>Muhammad Agis Irawan</b><br/>
+            </td>
+            <td>
+                Melalui pengerjaan proyek investigasi etika profesi ini, khususnya saat mendalami Analisis Regulasi dan Checkpoint Integritas, saya mendapatkan kesadaran baru bahwa kepatuhan hukum (*legal compliance*) hanyalah batas standar minimum bagi seorang praktisi teknologi. Sebagai mahasiswa Teknik Informatika Universitas Pancasila, saya menyadari bahwa regulasi tertulis seperti UU PDP dan UU ITE dibentuk untuk melindungi hak digital masyarakat, namun dinamika teknologi manajemen algoritmik sering kali bergerak jauh lebih cepat daripada hukum positif[cite: 2, 3]. Di sinilah peran krusial dari integritas profesional diuji. Ketika sebuah platform memanfaatkan kekosongan hukum dalam status "kemitraan" untuk mengeksklusi pekerja gig dari jaminan sosial, atau ketika pengembang membiarkan algoritma *fraud detection* berjalan dengan tingkat *false positive* yang tinggi (sehingga salah memblokir driver jujur akibat orderan fiktif), hal tersebut merupakan bentuk penyalahgunaan kepercayaan (*abuse of trust*) dan pengkhianatan terhadap etika profesi[cite: 2, 3]. 
+                <br/><br/>
+                Pelajaran terbesar bagi saya adalah bahwa prinsip "anti-korupsi" di ranah teknologi informasi memiliki makna yang jauh lebih luas daripada sekadar kerugian finansial negara; anti-korupsi berarti menjaga transparansi, akuntabilitas, dan kejujuran di setiap baris instruksi logika program yang kita arsitekturi. Kita bertanggung jawab penuh agar sistem tidak menjadi kotak hitam (*black box*) yang sengaja menyembunyikan variabel pembentuk tarif atau manipulasi performa demi keuntungan sepihak korporasi[cite: 3]. Dari kelima sila Pancasila, Sila Kelima (Keadilan Sosial bagi Seluruh Rakyat Indonesia) menjadi lensa yang paling membekas bagi saya[cite: 3]. Sila ini mengingatkan saya bahwa keadilan digital harus diperjuangkan secara nyata melalui desain sistem yang adil, di mana keuntungan ekonomi yang dihasilkan oleh inovasi teknologi harus didistribusikan secara proporsional, tanpa mengeksternalisasi risiko keselamatan ke pundak pihak yang paling lemah[cite: 3].
+            </td>
+        </tr>
     </tbody>
 </table>
 
