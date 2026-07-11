@@ -333,17 +333,37 @@ Penerapan kontrol preventif di atas dirancang untuk memberikan transformasi posi
 <h2 align="center">BAB XI: PELAJARAN UTAMA & DAFTAR PUSTAKA</h2>
 
 ### Pembelajaran Utama
-#### Naila Putri Fahel - 4524210053
-
-Investigasi kasus *algorithmic management* pada platform Gojek dan Grab memberikan beberapa pelajaran mendasar bagi saya sebagai calon praktisi teknologi. Pelajaran pertama, algoritma bukanlah entitas netral, melainkan produk keputusan moral. Setiap variabel dan ambang batas yang ditetapkan dalam sistem membawa muatan etis, sehingga ketika seorang pengembang merancang *suspend* otomatis tanpa mekanisme banding, sesungguhnya ia memilih menempatkan efisiensi mesin di atas martabat manusia. Pelajaran kedua, transparansi merupakan hak pengguna, bukan sekadar fitur opsional. Ketertutupan algoritma *black box* pada *dynamic pricing* melanggar hak mitra untuk memahami keputusan yang memengaruhi penghidupan mereka, dan hal ini bertentangan dengan UU PDP Pasal 50 serta standar *disclosure* IEEE [5][9]. Pelajaran ketiga, celah hukum tidak menghapus tanggung jawab moral. Status "kemitraan" yang dipakai untuk menghindari kewajiban jaminan sosial mungkin sah secara hukum sebelum Perpres Nomor 27 Tahun 2026, tetapi tidak pernah benar secara moral, karena Kode Etik ACM maupun Sila Kelima Pancasila tidak mengenal pengecualian berdasarkan bentuk kontrak [8].
- 
-Ketiga pelajaran tersebut mengubah cara pandang saya terhadap kode etik profesi. Sebelum mengerjakan proyek ini, saya mengira kode etik hanyalah dokumen formal yang jarang benar-benar dipakai dalam praktik. Namun, setelah menganalisis kasus ini pada bagian Lensa Pancasila dan Kode Etik Profesi, saya mulai memahami bahwa sebaris kode yang ditulis pengembang tidak berhenti pada urusan teknis, melainkan ikut menentukan nasib orang lain, bahkan sampai pada persoalan apakah seorang mitra pengemudi masih bisa memperoleh penghasilan hari itu. Dari situ saya menyadari bahwa membuat sistem yang berjalan dengan baik dan membuat sistem yang adil adalah dua hal yang berbeda, dan keduanya sama-sama menjadi tanggung jawab seorang praktisi teknologi.
- 
-Di antara kelima sila yang saya analisis, Sila Kedua adalah yang paling berkesan bagi saya. Prinsip Kemanusiaan yang Adil dan Beradab ternyata bukan sekadar nilai abstrak, tetapi dapat dijadikan tolok ukur yang nyata dalam menilai sebuah sistem, misalnya dengan bertanya apakah sistem tersebut masih memberi ruang bagi pengguna untuk membela diri, dan apakah ia memperlakukan manusia sebagai tujuan, bukan sekadar objek data. Pertanyaan sesederhana itu, yang berasal dari nilai bangsa sendiri, justru terasa lebih mudah saya terapkan dibanding teori etika yang selama ini dipelajari di kelas.
- 
- 
-Dari pengalaman menyusun analisis ini, saya merumuskan beberapa komitmen untuk perjalanan karier saya ke depan. Saya ingin membiasakan diri untuk selalu mempertimbangkan dampak sosial sebelum membangun sebuah fitur yang menyentuh banyak pengguna, karena pertanyaan mengenai keamanan teknis tidak pernah lengkap tanpa mempertanyakan siapa yang akhirnya menanggung bebannya. Saya juga ingin memiliki keberanian untuk bersuara ketika menemukan kekurangan pada sebuah sistem yang berpotensi merugikan orang lain, sebagaimana ditekankan dalam Kode Etik IEEE tentang pentingnya menyampaikan kritik yang jujur atas pekerjaan teknis. Terakhir, saya berharap dapat berkembang di lingkungan kerja yang menjunjung etika dalam pengembangan teknologi, karena saya percaya kepercayaan masyarakat adalah hal yang menjaga keberlanjutan bidang ini dalam jangka panjang. Pada akhirnya, proyek ini menyadarkan saya bahwa menjadi praktisi teknologi yang baik tidak cukup hanya dengan menghasilkan sistem yang rapi dan efisien, tetapi juga menuntut keberanian untuk terus bertanya, untuk siapa sebenarnya sistem ini dibuat, dan siapa yang harus menanggung akibatnya.
-
+<table>
+    <thead> 
+        <tr>
+            <th>Nama</th>
+            <th>Refleksi Pembelajaran Utama</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+            <td>Naila Putri Fahel</td>
+            <td>
+                Investigasi kasus *algorithmic management* pada platform Gojek dan Grab memberikan beberapa pelajaran mendasar bagi saya sebagai calon praktisi teknologi. Pelajaran pertama, algoritma bukanlah entitas netral, melainkan produk keputusan moral. Setiap variabel dan ambang batas yang ditetapkan dalam sistem membawa muatan etis, sehingga ketika seorang pengembang merancang *suspend* otomatis tanpa mekanisme banding, sesungguhnya ia memilih menempatkan efisiensi mesin di atas martabat manusia. Pelajaran kedua, transparansi merupakan hak pengguna, bukan sekadar fitur opsional. Ketertutupan algoritma *black box* pada *dynamic pricing* melanggar hak mitra untuk memahami keputusan yang memengaruhi penghidupan mereka, dan hal ini bertentangan dengan UU PDP Pasal 50 serta standar *disclosure* IEEE [5][9]. Pelajaran ketiga, celah hukum tidak menghapus tanggung jawab moral. Status "kemitraan" yang dipakai untuk menghindari kewajiban jaminan sosial mungkin sah secara hukum sebelum Perpres Nomor 27 Tahun 2026, tetapi tidak pernah benar secara moral, karena Kode Etik ACM maupun Sila Kelima Pancasila tidak mengenal pengecualian berdasarkan bentuk kontrak [8].
+                </br>
+                Ketiga pelajaran tersebut mengubah cara pandang saya terhadap kode etik profesi. Sebelum mengerjakan proyek ini, saya mengira kode etik hanyalah dokumen formal yang jarang benar-benar dipakai dalam praktik. Namun, setelah menganalisis kasus ini pada bagian Lensa Pancasila dan Kode Etik Profesi, saya mulai memahami bahwa sebaris kode yang ditulis pengembang tidak berhenti pada urusan teknis, melainkan ikut menentukan nasib orang lain, bahkan sampai pada persoalan apakah seorang mitra pengemudi masih bisa memperoleh penghasilan hari itu. Dari situ saya menyadari bahwa membuat sistem yang berjalan dengan baik dan membuat sistem yang adil adalah dua hal yang berbeda, dan keduanya sama-sama menjadi tanggung jawab seorang praktisi teknologi.
+                </br>
+                Di antara kelima sila yang saya analisis, Sila Kedua adalah yang paling berkesan bagi saya. Prinsip Kemanusiaan yang Adil dan Beradab ternyata bukan sekadar nilai abstrak, tetapi dapat dijadikan tolok ukur yang nyata dalam menilai sebuah sistem, misalnya dengan bertanya apakah sistem tersebut masih memberi ruang bagi pengguna untuk membela diri, dan apakah ia memperlakukan manusia sebagai tujuan, bukan sekadar objek data. Pertanyaan sesederhana itu, yang berasal dari nilai bangsa sendiri, justru terasa lebih mudah saya terapkan dibanding teori etika yang selama ini dipelajari di kelas.
+                </br>
+                Dari pengalaman menyusun analisis ini, saya merumuskan beberapa komitmen untuk perjalanan karier saya ke depan. Saya ingin membiasakan diri untuk selalu mempertimbangkan dampak sosial sebelum membangun sebuah fitur yang menyentuh banyak pengguna, karena pertanyaan mengenai keamanan teknis tidak pernah lengkap tanpa mempertanyakan siapa yang akhirnya menanggung bebannya. Saya juga ingin memiliki keberanian untuk bersuara ketika menemukan kekurangan pada sebuah sistem yang berpotensi merugikan orang lain, sebagaimana ditekankan dalam Kode Etik IEEE tentang pentingnya menyampaikan kritik yang jujur atas pekerjaan teknis. Terakhir, saya berharap dapat berkembang di lingkungan kerja yang menjunjung etika dalam pengembangan teknologi, karena saya percaya kepercayaan masyarakat adalah hal yang menjaga keberlanjutan bidang ini dalam jangka panjang. Pada akhirnya, proyek ini menyadarkan saya bahwa menjadi praktisi teknologi yang baik tidak cukup hanya dengan menghasilkan sistem yang rapi dan efisien, tetapi juga menuntut keberanian untuk terus bertanya, untuk siapa sebenarnya sistem ini dibuat, dan siapa yang harus menanggung akibatnya.
+            </td>
+        </tr>
+        <tr>
+            <td>Muhamad Edvin Hidayat</td>
+            <td>
+                Refleksi pembelajaran utama dari hasil laporan ini adalah bahwa penerapan etika-etika seperti Utilitarianisme, Deontology, Etika Kebijakan, dan Etika Hak/Kontraktian sangat penting dalam pekerjaan *Gig Worker* ini dalam menunjang tidak hanya kesejahteraan perusahaan namun juga para pekerja yang menekan kontrak di perusahaan tersebut. Jika prinsip dari etika profesi tersebut tidak diterapkan dengan baik maka akan timbul ketimpangan kesejahteraan di satu pihak saja dan melahirkan sistem lingkungan kerja yang tidak adil bagi para pekerja yang bekerja di sistem tersebut.
+                </br>
+                </br>
+                Dilain sisi, sebagai seorang yang akan bekerja di dunia profesional IT saya mendapatkan pembelajaran bahwa penerapan etika tersebut juga sangat penting dalam bidang teknlogi yang digunakan oleh para pekerja sebagai bentuk upaya dari mewujudkan sistem yang adil dan manusiawi untuk para pekerja *Gig Worker* atau sektor informal maupun formal lainnya.
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### Daftar Pustaka
 
