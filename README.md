@@ -241,6 +241,18 @@ Adi Wahyu Pribadi, S.Si., M.Kom
     </tbody>
 </table>
 
+## Tautan Video Presentasi (Youtube)
+<div align="center">
+	<a href="https://youtu.be/ZS7sSWQvavc" target="_blank" class="center">
+	  <img src="https://img.youtube.com/vi/ZS7sSWQvavc/0.jpg" 
+	       alt="Tonton Video" 
+	       width="400"/>
+	</a>
+	<br>
+	<!-- <a href="https://youtu.be/ZS7sSWQvavc"><i>https://youtu.be/ZS7sSWQvavc</i></a> -->
+</div>
+
+---
 <!-- ==================== BAGIAN UTAMA I: PONDASI & KONTEKS ==================== -->
 <h2 align="center">BAB I: KRONOLOGI & KONTEKS</h2>
 Fenomena algorithmic management pada platform ride-hailing di Indonesia berakar dari pertumbuhan pesat ekonomi gig yang didorong oleh Gojek dan Grab sejak pertengahan tahun 2010-an. Kedua platform ini telah mengubah lanskap transportasi perkotaan dan menciptakan lapangan kerja bagi ratusan ribu mitra pengemudi di seluruh Indonesia. Namun, di balik janji fleksibilitas dan kemudahan akses pendapatan, sistem yang mengatur pekerjaan para mitra ini berkembang menjadi mekanisme kontrol digital yang masif dan tidak transparan .
@@ -720,12 +732,3 @@ Penerapan kontrol preventif di atas dirancang untuk memberikan transformasi posi
         <td>A. Cahyono, I. F. Kusuma, and H. H. Kusumo, “Hubungan Hukum Kemitraan antara Driver Online dengan Penyedia Layanan,” <i>Perspektif Hukum</i>, pp. 317–331, Dec. 2024, doi: <a href="https://doi.org/10.30649/ph.v24i2.311">10.30649/ph.v24i2.311</a>.</td>
     </tr>
 </table>
-
-### Video Presentasi (Youtube)
-<div align="center">
-	<a href="https://youtu.be/ZS7sSWQvavc" target="_blank" class="center">
-	  <img src="https://img.youtube.com/vi/ZS7sSWQvavc/0.jpg" 
-	       alt="Tonton Video" 
-	       width="600"/>
-	</a>
-</div>
