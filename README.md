@@ -35,6 +35,154 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 ---
 </div>
 
+## Daftar Sub-CPMK yang dicakup laporan
+<table>
+    <thead>
+        <tr>
+            <th>No</th>
+            <th>Bagian</th>
+            <th>Isi</th>
+            <th>Sub-CPMK</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>
+                Kronologi & Konteks
+            </td>
+            <td>
+                Rangkaian peristiwa berurutan dan konteks teknis kasus
+            </td>
+            <td>
+                1
+            </td>
+        </tr>
+         <tr>
+            <td>2</td>
+            <td>
+                Fakta Kunci & Catatan Transparansi
+            </td>
+            <td>
+                Pemisahan fakta terverifikasi vs informasi yang masih disengketakan; penanda fakta yang perlu diverifikasi pembaca
+            </td>
+            <td>
+                3
+            </td>
+        </tr>
+         <tr>
+            <td>3</td>
+            <td>
+                Pemetaan Pemangku Kepentingan
+            </td>
+            <td>
+                Pihak terdampak, pengambil keputusan, dan relasi kuasa di antara mereka.
+            </td>
+            <td>
+                3
+            </td>
+        </tr>
+         <tr>
+            <td>4</td>
+            <td>
+                Analisis Empat Teori Etika
+            </td>
+            <td>
+                Penerapan Utilitarianisme, Deontologi, Etika Kebajikan, dan Etika Hak/Kontraktarian pada kasus — diterapkan, bukan sekadar didefinisikan
+            </td>
+            <td>
+                1
+            </td>
+        </tr>
+         <tr>
+            <td>5</td>
+            <td>
+                Lensa Kelima — Pancasila
+            </td>
+            <td>
+                Analisis sila 1–5 yang relevan + Nilai Kepancasilaan UP (Integritas, Kepedulian, Harmonis, Kolaboratif, Profesionalisme)
+            </td>
+            <td>
+                1
+            </td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>
+                Kode Etik Profesi
+            </td>
+            <td>
+                ACM/IEEE, PII, IAI, atau ASME sesuai bidang kasus — pasal/klausul mana yang dilanggar atau relevan.
+            </td>
+            <td>
+                1, 2
+            </td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>
+                Analisis Regulasi & Hukum
+            </td>
+            <td>
+                UU PDP, UU ITE, dan regulasi sektoral terkait;
+                pemisahan tegas tanggung jawab hukum vs tanggung jawab moral.
+            </td>
+            <td>
+                2
+            </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>
+                Checkpoint Integritas & Anti-Korupsi
+            </td>
+            <td>
+                Penyalahgunaan kepercayaan/kewenangan, penyembunyian, konflik kepentingan; 
+                analisis UU Tipikor bila relevan
+            </td>
+            <td>
+                5
+            </td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>
+                Manajemen Risiko & Opsi 4T
+            </td>
+            <td>
+                Matriks risiko (ISO 31000) dan opsi penanganan: Terima, Tangani, Transfer, Tinggalkan.
+            </td>
+            <td>
+                4, 7
+            </td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>
+                Rancangan Dampak & Kontrol Preventif
+            </td>
+            <td>
+                Rekomendasi konkret agar insiden tidak terulang serta rancangan dampak ke masyarakat
+            </td>
+            <td>
+                3, 7
+            </td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>
+                Pelajaran Utama & Daftar Pustaka
+            </td>
+            <td>
+                Refleksi pelajaran utama + daftar sumber yang dapat diperiksa (utamakan sumber primer)
+            </td>
+            <td>
+                8, 9
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 # Pembagian Peran
 <table>
     <thead>
@@ -572,5 +720,12 @@ Penerapan kontrol preventif di atas dirancang untuk memberikan transformasi posi
         <td>A. Cahyono, I. F. Kusuma, and H. H. Kusumo, “Hubungan Hukum Kemitraan antara Driver Online dengan Penyedia Layanan,” <i>Perspektif Hukum</i>, pp. 317–331, Dec. 2024, doi: <a href="https://doi.org/10.30649/ph.v24i2.311">10.30649/ph.v24i2.311</a>.</td>
     </tr>
 </table>
-  
-  
+
+### Video Presentasi (Youtube)
+<div align="center">
+	<a href="https://youtu.be/ZS7sSWQvavc" target="_blank" class="center">
+	  <img src="https://img.youtube.com/vi/ZS7sSWQvavc/0.jpg" 
+	       alt="Tonton Video" 
+	       width="600"/>
+	</a>
+</div>
